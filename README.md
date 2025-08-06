@@ -1,4 +1,75 @@
-# React + Vite
+# 3D Gaming - React + Vite
+
+A modern 3D gaming web application built with React and Vite.
+
+## Features
+
+- Fast development with Vite
+- Hot Module Replacement (HMR)
+- Interactive 3D gaming experience
+- Animation with GSAP
+- Utility-first styling with Tailwind CSS
+- Conditional class management with clsx
+- ESLint integration for code quality
+- Easy deployment
+
+## Getting Started
+
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Technologies Used
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [GSAP](https://gsap.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [clsx](https://github.com/lukeed/clsx)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [react-use](https://github.com/streamich/react-use)
+- [ESLint](https://eslint.org/)
+
+## Folder Structure
+
+```
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── ...
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
